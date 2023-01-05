@@ -1,0 +1,50 @@
+{
+  "NetworkTables": {
+    "LiveWindow": {
+      "SwerveSubsystem": {
+        "open": false
+      },
+      "Ungrouped": {
+        "open": false
+      }
+    },
+    "Shuffleboard": {
+      "SWERVY BOI": {
+        "open": false
+      }
+    },
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/SwerveSubsystem": "Subsystem",
+      "/LiveWindow/Ungrouped/DigitalInput[4]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[5]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[8]": "Digital Input",
+      "/LiveWindow/Ungrouped/DigitalInput[9]": "Digital Input",
+      "/LiveWindow/Ungrouped/PIDController[10]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[3]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[4]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[5]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[6]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[7]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[8]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[9]": "PIDController",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/navX-Sensor[2]": "Gyro",
+      "/LiveWindow/Ungrouped/navX-Sensor[4]": "Gyro",
+      "/SmartDashboard/Field": "Field2d"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "3683"
+  }
+}
